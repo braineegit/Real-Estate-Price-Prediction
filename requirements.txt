@@ -1,9 +1,0 @@
-Flask
-sklearn
-pandas
-numpy
-matplotlib
-warnings
-pickle
-json
-gunicorn

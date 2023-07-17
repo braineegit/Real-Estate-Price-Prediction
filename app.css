@@ -120,7 +120,7 @@ h2 {
 }
 
 .img {
-	background: url('/client/img/building.jpeg');
+	background: url('img/building.jpeg');
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-size: 100% 100%;

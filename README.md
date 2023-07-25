@@ -11,5 +11,10 @@ Scikit-learn for model building
 Jupyter Notebook, Visual Studio Code, and PyCharm as IDEs
 Python Flask for the HTTP server
 HTML/CSS/JavaScript for the user interface
+![bangalore house](https://github.com/braineegit/Real-Estate-Price-Prediction.github.io/assets/122742532/9f429416-5241-4137-ba6f-5f7ac19944e3)
+
+![bangalore house 2](https://github.com/braineegit/Real-Estate-Price-Prediction.github.io/assets/122742532/c8c33c56-4342-4164-81d8-95694b5a49cf)
+
+![bangalore house 3](https://github.com/braineegit/Real-Estate-Price-Prediction.github.io/assets/122742532/1ce46b68-351d-4227-9af6-45b35ca8de2d)
 
 My site address is: https://braineegit.github.io/Real-Estate-Price-Prediction.github.io/

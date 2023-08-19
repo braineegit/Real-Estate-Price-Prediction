@@ -17,4 +17,3 @@ HTML/CSS/JavaScript for the user interface
 
 ![bangalore house 3](https://github.com/braineegit/Real-Estate-Price-Prediction.github.io/assets/122742532/1ce46b68-351d-4227-9af6-45b35ca8de2d)
 
-My site address is: https://braineegit.github.io/Real-Estate-Price-Prediction.github.io/
